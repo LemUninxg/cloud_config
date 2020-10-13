@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: config-client # 应用名称
+    name: config-client-2020-10-14 # 应用名称
 
 # 自定义配置
 name: config-client-test
