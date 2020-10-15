@@ -6,4 +6,4 @@ spring:
     name: config-client-2020-10-15 # 应用名称
 
 # 自定义配置
-name: config-client-test
+name: config-client-test-2020-10-15
