@@ -7,4 +7,7 @@ spring:
 
 # 自定义配置
 name: config-client-prod
-password: '{cipher}727148f4aa2072246147b1a9ca6a2758a3a5658f8216f7cae93721466f1f7046'
+# 对称加密
+# password: '{cipher}727148f4aa2072246147b1a9ca6a2758a3a5658f8216f7cae93721466f1f7046'
+# 非对称加密
+password: '{cipher}AQA3CLb9S5vCFWVF8NPuCfapD8lPkLLNNUtCerVn4HzY/GVzbZqb5ll0+TBo2IuY5NMSMmvChByasja4FDeQrbQmzOEC4SRrWXrDJVRQUtgtPhXdEKR3HE99Ug4YQpflYKBHvNCcPhi1B+r+ism7a9oFDBF9MVkjgNFQzl460xOczTlfagJmJKbPIAOpdRMsHINViMGyRs/IswHKZ9CiZO05Pez3iSU1feBAYHCDA0vfdh0QZZ6YAVnuwt5HL32CpjeFKEahBuSyKZ3nD0lOtrEJGEbzmfhrJ8tqJN3HTNhDxBs+UaRvk51N2B9sFDbUZKYjoZvzIeo1BGeXHtBbFGw9f5amsVOcrCoRDxlPmTIdKrg3wcgQybJM1XHgTYajr3s='
