@@ -7,4 +7,4 @@ spring:
 
 # 自定义配置
 name: config-client-prod
-password:'{cipher}727148f4aa2072246147b1a9ca6a2758a3a5658f8216f7cae93721466f1f7046'
+password: '{cipher}727148f4aa2072246147b1a9ca6a2758a3a5658f8216f7cae93721466f1f7046'
