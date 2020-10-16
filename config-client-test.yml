@@ -7,3 +7,4 @@ spring:
 
 # 自定义配置
 name: config-client-test-2020-10-15_23:21
+password: test_config
