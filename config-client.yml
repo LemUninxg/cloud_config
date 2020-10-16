@@ -8,4 +8,4 @@ spring:
 # 自定义配置
 name: config-client-default
 password: defaultPwd
-priority: default_config
+priority: default_config_15:39
